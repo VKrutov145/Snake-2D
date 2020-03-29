@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1585436621 source:d:\my projects\snake2d\snake2d\main.cpp
+1585489331 source:d:\my projects\snake2d\snake2d\main.cpp
 	<iostream>
 	<cstdlib>
 	<conio.h>
